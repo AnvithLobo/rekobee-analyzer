@@ -1,0 +1,5 @@
+# Temporary files
+__pycache__/
+
+# Wireshark captures
+*.pcap*
